@@ -1,8 +1,6 @@
 # Jawad Alrajhi
 
-Personal portfolio and project showcase by Jawad Alrajhi.
-
----
+Personal Portfolio and Project Showcase by Jawad Alrajhi.
 
 ## Contact
 
