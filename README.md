@@ -9,4 +9,3 @@ Personal portfolio and project showcase by Jawad Alrajhi.
 - 📧 jawadalrajhi@hotmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🐦 [Twitter](https://x.com/Jawadalrajhi)
-- 
